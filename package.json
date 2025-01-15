@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@clerk/nextjs": "^6.9.5",
+    "lucide-react": "^0.468.0"
+  }
+}
